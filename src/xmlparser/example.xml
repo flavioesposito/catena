@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Slice>
+    <VirtualNode type="mandatory">
+        <Name>vn1</Name>
+        <Id>3674</Id>
+        <cpu>34</cpu>
+    </VirtualNode>
+    <VirtualNode type="mandatory">
+        <Name>vn2</Name>
+        <Id>3675</Id>
+        <cpu>99</cpu>
+    </VirtualNode>
+    <VirtualLink type="mandatory">
+        <Name>vl1</Name>
+        <Id>3675</Id>
+        <bw>25</bw>
+        <delay>00</delay>
+    </VirtualLink>
+    <Topology type="optional">
+        <Name>star</Name>
+    </Topology>
+</Slice>

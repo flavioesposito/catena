@@ -1,0 +1,1 @@
+INDEX VERSION 1.129+/Users/flavioesposito/Dropbox/research/_pending_papers/CATENA/catena/.metadata/.plugins/org.eclipse.jdt.core
